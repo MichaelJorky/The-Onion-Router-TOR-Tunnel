@@ -21,7 +21,13 @@ Berikut adalah penjelasan lebih rinci mengenai cara kerja TOR:
 #
 ~ (v1.0.0.1) Minggu 5 Januari 2025 - First Release The Onion Router (ToR) Tunnel v1.0.0.1 by Geoclans
 
+Note: Aplikasi sudah di Test di Windows 10 dan Windows 11 (x32/x64)
+
 #
 <b>[ Tutorial Singkat Penggunaan Aplikasi The Onion Router (ToR) Tunnel ]</b>
 
-1.
+1. Download ToR Tunnel via https://codeload.github.com/MichaelJorky/The-Onion-Router-TOR-Tunnel/zip/refs/heads/main
+2. Lalu jalankan ToR Tunnel.exe di aplikasi ada ip proxy yang sudah include 161.123.152.115:6360 itu hanya berfungsi jika "Use Proxy" di ceklist dan itu hanya proxy demo saja, proxy tersebut saya dapatkan secara gratis di https://www.webshare.io/features/free-proxy silahkan daftar terlebih dahulu dan tidak perlu saya jelaskan cara daftarnya tetapi pastikan type proxy yang teman-teman gunakan adalah type authorization ip atau istilahnya proxy direct yang dikunci hanya untuk 1 ip address yang terdaftar saja, tetapi jika teman teman tidak menceklis "Use Proxy" abaikan saja. untuk "Use proxy" tersebut tidak harus selalu menggunakan type server proxy karena itu bisa kita atur menggunakan secara lokal, misalkan output dari aplikasi Psiphon dll.
+3. Listen Port: 127.0.0.1:9050 itu adalah output koneksi dari Tor Tunnel yang secara default sudah diatur dan diarahkan ke aplikasi Proxifer, hanya saja jika teman-teman ingin mengatur outputnya secara manual tinggal atur saja listen portnya lalu arahkan misalkan ke aplikasi Psiphon dll, dan pastikan tidak menggunakan port sama aktif secara bersamaan pada systemnya agar tidak terjadi konflik port.
+4. Remote Port: digunakan untuk menggunakan port berapa untuk terhubung ke server jaringan ToR, Secara default remote port terbaik di indonesia dan bisa digunakan di semua provider adalah port 80 dan 443
+5. Status: untuk menampilkan status apakah aplikasi berhasil terhubung ke jaringan Tor atau tidak.

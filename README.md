@@ -19,11 +19,6 @@ Berikut adalah penjelasan lebih rinci mengenai cara kerja TOR:
 4. Penggunaan: TOR sering digunakan oleh individu yang ingin menjaga privasi mereka saat online, aktivis, jurnalis, dan juga orang-orang di negara-negara dengan sensor internet yang ketat. Namun, TOR juga terkadang digunakan untuk aktivitas ilegal, karena kemampuannya menyembunyikan identitas penggunanya.
 
 #
-~ (v1.0.0.1) Minggu 5 Januari 2025 - First Release The Onion Router (ToR) Tunnel v1.0.0.1 by Geoclans
-
-Note: Aplikasi sudah di Test di Windows 10 dan Windows 11 (x32/x64)
-
-#
 <b>[ Tutorial Singkat Penggunaan Aplikasi The Onion Router (ToR) Tunnel ]</b>
 
 1. Download ToR Tunnel via https://codeload.github.com/MichaelJorky/The-Onion-Router-TOR-Tunnel/zip/refs/heads/main

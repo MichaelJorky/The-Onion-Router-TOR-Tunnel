@@ -66,6 +66,3 @@ Memudahkan pengguna memahami kondisi koneksi setiap saat.
 * Pastikan tidak menggunakannya untuk aktivitas ilegal.
 * TOR dapat memperlambat koneksi internet, ini adalah hal normal.
 
-## 📜 Lisensi
-
-
